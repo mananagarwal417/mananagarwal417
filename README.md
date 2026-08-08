@@ -4,8 +4,8 @@
   <h3>Computer Science Undergraduate & Full-Stack / AI Developer</h3>
 
   <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+    <a href="https://www.linkedin.com/in/manan-agarwal-5b290a256/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://leetcode.com/u/_agarwal-2005/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
     <a href="mailto:agarwalmanan73@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 
@@ -165,17 +165,10 @@
 <div align="center">
 
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
-  <br /><br />
 
   <!-- GitHub Main Stats Card -->
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=mananagarwal417&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  
-  <!-- Top Languages Card -->
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananagarwal417&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
-
-  <br /><br />
+  <br><br>
 
   <!-- Streak Stats Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mananagarwal417&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
