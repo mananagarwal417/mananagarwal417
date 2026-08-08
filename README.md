@@ -170,20 +170,17 @@
   <br /><br />
 
   <!-- GitHub Main Stats Card -->
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=mananagarwal417&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
   
   <!-- Top Languages Card -->
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananagarwal417&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
 
   <br /><br />
 
   <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mananagarwal417&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-<div align="center">
-  <sub>Designed with ❤️ by Manan Agarwal</sub>
-</div>
