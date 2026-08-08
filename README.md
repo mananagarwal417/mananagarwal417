@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hey, I'm Manan 👋
 
-<!--
-**mananagarwal417/mananagarwal417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science @ SIT  
+💻 Aspiring Software Engineer  
+🚀 Building Full-Stack, Cloud & AI-powered applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+C++ • JavaScript • Python • React • Next.js • Node.js  
+MongoDB • Docker • AWS • Git • REST APIs  
+LangChain • Gemini • FAISS
+
+---
+
+### 🚀 Featured Projects
+
+🔹 CloudSpend AI
+AI-powered cloud cost analysis and optimization platform.
+
+🔹 Real-Time Chat Application
+Real-time messaging application with Socket.io, Node.js and MongoDB.
+
+---
+
+### 📚 Currently Learning
+
+- System Design
+- Backend Development
+- Distributed Systems
+- Cloud Architecture
+
+---
+
+### 🤝 Let's Connect
+
+[LinkedIn] | [Portfolio] | [Email]
