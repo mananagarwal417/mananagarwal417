@@ -82,81 +82,61 @@
 
 ### 📌 Featured Projects
 
-<table width="100%">
-  <!-- ROW 1 -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☁️ CloudSpend AI</h3>
-      <p><i>AI-Powered FinOps Cost Optimization Platform</i></p>
-      <hr />
-      <ul>
-        <li><b>RAG Assistant:</b> Built a retrieval-augmented generation AI assistant using <b>Google Gemini API</b>, <b>LangChain</b>, and <b>FAISS</b> vector store for smart cost optimization insights.</li>
-        <li><b>Backend & Storage:</b> Designed robust REST APIs with FastAPI for bill uploads, cost analysis, and temporary data handling backed by MongoDB and MySQL.</li>
-        <li><b>Containerization:</b> Fully containerized using <b>Docker</b> for seamless deployment across environments.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📐 SystemCraft</h3>
-      <p><i>Interactive System Design & Architecture Visualizer</i></p>
-      <hr />
-      <ul>
-        <li><b>Visual Mapping:</b> Implemented drag-and-drop system architecture mapping using <b>ReactFlow</b> and smooth animations with <b>Framer Motion</b>.</li>
-        <li><b>Security & Storage:</b> Integrated <b>JWT authentication</b> and secure REST APIs for persistent diagram storage and user access management.</li>
-        <li><b>Performance Optimization:</b> Engineered a scalable MongoDB backend and optimized React state rendering for high-performance handling of complex diagrams.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-    </td>
-  </tr>
+#### ☁️ CloudSpend AI — *AI-Powered FinOps Cost Optimization Platform*
+- Built an AI-powered cloud cost analysis tool featuring a retrieval-augmented generation (RAG) assistant using **Google Gemini API**, **LangChain**, and **FAISS** vector store for cost optimization insights.
+- Designed robust REST APIs for bill upload, analytics processing, and temporary data storage backed by **MongoDB** and **MySQL**.
+- Fully containerized backend and dependencies using **Docker**.
 
-  <!-- ROW 2 -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ CPU Scheduling Simulator</h3>
-      <p><i>Multi-Threaded Concurrent Process Scheduler</i></p>
-      <hr />
-      <ul>
-        <li><b>Algorithm Simulation:</b> High-performance C++ simulator supporting First-Come-First-Serve (FCFS), Shortest Job First (SJF), and Round Robin (RR).</li>
-        <li><b>Concurrency & Thread Safety:</b> Applied <b>POSIX Threads</b> and <b>Mutex Locks</b> to ensure concurrent execution without race conditions.</li>
-        <li><b>OOP Design:</b> Structured with strict Object-Oriented Principles and inheritance to ensure a highly modular and extensible framework.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/-POSIX Threads-000000?style=flat-square&logo=linux&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Mutex Locks-4682B4?style=flat-square" />
-        <img src="https://img.shields.io/badge/-OOP-008080?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📍 City Traffic Hotspot Finder</h3>
-      <p><i>Big Data Spatial-Temporal Mobility Analysis</i></p>
-      <hr />
-      <ul>
-        <li><b>ETL Pipeline:</b> Engineered a scalable Python ETL pipeline to process and aggregate <b>1,000,000+ GeoLife GPS records</b> into Google BigQuery.</li>
-        <li><b>Spatial SQL Queries:</b> Formulated optimized SQL queries for analyzing complex spatial-temporal urban traffic and mobility trends.</li>
-        <li><b>Cloud Analytics:</b> Utilized <b>GCP</b> infrastructure for high-speed spatial data processing and hotspot identification.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Google BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white" />
-        <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-        <img src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+---
+
+#### 📐 SystemCraft — *Interactive System Design & Visualizer*
+- Built a drag-and-drop system architecture visualizer using **ReactFlow** and **Framer Motion** for smooth, responsive diagramming.
+- Implemented **JWT authentication** and secure REST APIs for persistent user diagram storage and session management.
+- Engineered a scalable **MongoDB** backend and optimized React state management to efficiently render large-scale system diagrams.
+
+<p>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+---
+
+#### ⚙️ CPU Scheduling Simulator — *Multi-Threaded Process Scheduler*
+- Built a concurrent C++ simulator implementing First-Come-First-Serve (FCFS), Shortest Job First (SJF), and Round Robin (RR) algorithms.
+- Leveraged **POSIX Threads** and **Mutex Locks** for safe concurrent execution.
+- Applied strict Object-Oriented Principles and inheritance to create a modular, extensible scheduling framework.
+
+<p>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-POSIX Threads-000000?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Mutex Locks-4682B4?style=flat-square" />
+  <img src="https://img.shields.io/badge/-OOP-008080?style=flat-square" />
+</p>
+
+---
+
+#### 📍 City Traffic Hotspot Finder — *Spatial-Temporal Traffic Analysis*
+- Engineered a Python ETL pipeline to process and aggregate **1,000,000+ GeoLife GPS records** into **Google BigQuery**.
+- Developed optimized spatial SQL queries for efficient spatial-temporal traffic and mobility pattern extraction.
+- Leveraged **GCP** and BigQuery to discover critical urban traffic hotspots.
+
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
 
 ---
 
